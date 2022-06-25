@@ -1,0 +1,2 @@
+# UAS_Visi_Komputer
+Tugas UAS VISI KOMPUTER DAN BIG DATA
